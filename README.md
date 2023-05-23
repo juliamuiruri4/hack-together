@@ -5,21 +5,52 @@
   <a href="https://aka.ms/hack-together/survey"><img src="https://img.shields.io/badge/hackathon-survey-green?style=for-the-badge" alt="Hackathon survey" border="0" /></a>
 </p>
 
-## Hack Together: Static Web Apps, Azure Functions & Cosmos DB with JavaScript
+## 💻Hack Together: Static Web Apps, Azure Functions & Cosmos DB with JavaScript
 
-From July 3-17, 2023 we ran **Hack Together: Static Web Apps, Azure Functions & Cosmos DB with JavaScript** - a virtual hackathon for beginners to get started building scenario-based apps using JavaScript, Static Web Apps, Azure Functions & Cosmos DB.
+From July 3-17, 2023 we ran **Hack Together: Static Web Apps, Azure Functions & Cosmos DB with JavaScript** - a virtual hackathon for beginners to get started building scenario-based apps using JavaScript, Static Web Apps, Azure Functions & Cosmos DB and win eciting prizes. If you’re a beginning coder, a student, or an expert looking for an opportunity to learn a new skill, don’t miss this opportunity!
 
-In this hackathon, participants will learn how to build apps based on top of JavaScript End to End scenarios, and met Microsoft JavaScript Leaders, Cloud Advocates, MVPs and Student Ambassadors. 
+In this hackathon, participants will learn how to build apps based on top of JavaScript End to End scenarios, and met Microsoft JavaScript Leaders, Cloud Advocates, MVPs and Student Ambassadors. [Register Now!](https://forms.office.com/r/KJp0JQF6k5)
 
-## Resources
+## Resources & Prerequisites
 
+### ✅ Prerequisites
+1. A GitHub Account
+1. Azure for Students
+
+### 🛄Resources
 - 🏡 An E2E App Development Guide: [Build a modern serverless web application using a composable architecture and cloud-native technologies.](https://happy-tree-0d4a38b10.2.azurestaticapps.net/)
+- 💬 An answer is just one question away. When you need help, don’t hesitate to ask questions in the GitHub Discussion for this hack. Our experts will always be there to help you and answer your questions.
+
+## 🦾What's the Hack?
+ 
+During the hackathon you’ll be working on your own implementation on top of the Contoso Real Estate Portal App. If you need inspiration, check out the list of top Microsoft Graph scenarios.
+
+When you’re ready, submit your project in the hackathon’s repo before July 17, 2023, so we can check it out. All hackathon participants who submit a working project will receive a digital badge. On addition, the winners selected will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team):
+
+🥇 First prize winner:
+- an Xbox,
+- $200 gift card
+- $100 Azure credit
+- a digital Credly badge
+
+🥈 Second prize winner:
+- $200 gift card
+- $100 Azure credit
+- a digital Credly badge
+
+🥉 Third prize winner:
+- $100 Azure credit
+- a digital Credly badge
+
+You can participate by yourself or as a team with your colleagues!
+
+We’re so excited for you to Hack Together with us and build cool features. Share your journey throughout the hack on social with the #HackTogether hashtag. Let us know if you have any questions. Our team is always here to help you! Follow us on Twitter to stay up to date on our latest news and announcements.
 
 [comment]:<> (Continue your journey)
 [comment]:<> (## Continue your journey)
 [comment]:<> (## Become a Trainer)
 
-## Hack Together Roadmap 🗺️
+## 🗺️Hack Together Roadmap 
 
 ![Hack Together Roadmap](./assets/HackTogetherRoadmap.jpg)
 
