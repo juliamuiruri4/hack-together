@@ -1,4 +1,4 @@
-# Hack Together: Microsoft Graph and .NET 🦒
+# Hack Together: Static Web Apps, Azure Functions & Cosmos DB with JavaScript
 
 <p align="center">
   <img src="./assets/banner.png" alt="Hack Together banner"/>
@@ -8,13 +8,13 @@
   <a href="https://aka.ms/hack-together/survey"><img src="https://img.shields.io/badge/hackathon-survey-green?style=for-the-badge" alt="Hackathon survey" border="0" /></a>
 </p>
 
-## Hack Together: Microsoft Graph and .NET 🦒
+## Hack Together: Static Web Apps, Azure Functions & Cosmos DB with JavaScript
 
-From March 1-15, 2023 we ran **Hack Together: Microsoft Graph and .NET** - a virtual hackathon for beginners to get started building scenario-based apps using .NET and Microsoft Graph.
+From July 3-17, 2023 we ran **Hack Together: Static Web Apps, Azure Functions & Cosmos DB with JavaScript** - a virtual hackathon for beginners to get started building scenario-based apps using JavaScript, Static Web Apps, Azure Functions & Cosmos DB.
 
-In this hackathon, participants learned how to build apps with Microsoft Graph based on top Microsoft Graph scenarios, and met Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors. Each submitted app had a chance to win exciting prizes.
+In this hackathon, participants will learn how to build apps based on top of JavaScript End to End scenarios, and met Microsoft JavaScript Leaders, Cloud Advocates, MVPs and Student Ambassadors. 
 
-## We're excited to share the hackathon winners
+## Resources
 
 - 🥇 1st place: [Magic Note app to plan the day efficiently with AI & Microsoft Graph](https://github.com/microsoft/hack-together/issues/92)
 - 🥈 2nd place: [ScheduleEase](https://github.com/microsoft/hack-together/issues/178)
@@ -32,25 +32,27 @@ While the hackathon is finished, your journey doesn’t have to end. [Join the M
 
 ## Hack Together Roadmap 🗺️
 
-![Hack Together Roadmap](./assets/HackTogetherRoadmap.png)
+![Hack Together Roadmap](./assets/HackTogetherRoadmap.jpg)
 
 Follow the steps below to successfully complete the hackathon.
 
 ### Watch the sessions 🎥
 
-* **[March 1st - Watch On Demand 🎥](https://aka.ms/hack-together/session01):** Kickoff Hack Together: Microsoft Graph and .NET! What can you do with Microsoft Graph .NET SDK?
+**Complete the Learn Modules in our Official Collection**
 
-* **[March 2nd - Watch On Demand 🎥](https://aka.ms/hack-together/session02):** Microsoft Graph Product Managers will show you how to get started with Microsoft Graph .NET SDK!
+* **[July 3rd - Watch On Demand 🎥](https://aka.ms/hack-together/session01):** Kickoff Hack Together: Static Web Apps, Azure Functions & Cosmos DB with JavaScript! See an End-to-End JavaScript Scenario first-hand
 
-* **[March 8th - Watch On Demand 🎥](https://aka.ms/hack-together/session03):** Microsoft Graph Product team and .NET Advocates join the Ask the Experts session to answer your questions. Get to know them!
+* **[July 6th  - Watch On Demand 🎥](https://aka.ms/hack-together/session02):** Microsoft Engineers will show you how to get started with Azure Static Web Apps for your Frontend and configure continous deployment!
 
-* **[March 15th - Watch On Demand 🎥](https://aka.ms/hack-together/session04):** We're at the end of Hack Together, but the journey doesn't end here. What's next: learn how you can join the community!
+* **[July 11th  - Watch On Demand 🎥](https://aka.ms/hack-together/session03):** Microsoft Engineers will show you how to get started with Serverless Functions for your Backend!
+
+* **[July 14th  - Watch On Demand 🎥](https://aka.ms/hack-together/session04):** Microsoft Engineers will show you how to configure and connect to a Database using Azure Cosmos DB!
 
 ## Recommended Learning Materials
 
-* [Learn Path - Explore Microsoft Graph scenarios for ASP.NET Core development](https://learn.microsoft.com/training/paths/m365-msgraph-dotnet-core-scenarios/)
-* [Tutorial - Build .NET apps with Microsoft Graph](https://learn.microsoft.com/graph/tutorials/dotnet?tabs=aad)
-* [Tutorial: Create a Blazor Server app that uses the Microsoft identity platform for authentication](https://learn.microsoft.com/azure/active-directory/develop/tutorial-blazor-server)
+* [Documentation - Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/)
+* [Documentation - Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/)
+* [Documentation: Azure CosmosDB](https://learn.microsoft.com/en-us/azure/cosmos-db/)
 * [Tutorial: Call the Microsoft Graph API from a Universal Windows Platform (UWP) application](https://learn.microsoft.com/azure/active-directory/develop/tutorial-v2-windows-uwp)
 * [Tutorial: Create a .NET MAUI app using the Microsoft Graph SDK](https://learn.microsoft.com/windows/apps/windows-dotnet-maui/tutorial-graph-api)
 * [Documentation - Overview of Microsoft Graph](https://learn.microsoft.com/graph/overview)
