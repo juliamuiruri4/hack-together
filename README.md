@@ -1,15 +1,29 @@
-# Hack Together: Static Web Apps, Azure Functions & Cosmos DB with JavaScript
+# **Hack Together: The JavaScript on Azure Global Hack**
 
 
 <p align="center">
   <a href="https://aka.ms/hack-together/survey"><img src="https://img.shields.io/badge/hackathon-survey-green?style=for-the-badge" alt="Hackathon survey" border="0" /></a>
 </p>
 
-## 💻Hack Together: Static Web Apps, Azure Functions & Cosmos DB with JavaScript
+## 💻Introduction
 
-From July 3-17, 2023 we ran **Hack Together: Static Web Apps, Azure Functions & Cosmos DB with JavaScript** - a virtual hackathon for beginners to get started building scenario-based apps using JavaScript, Static Web Apps, Azure Functions & Cosmos DB and win eciting prizes. If you’re a beginning coder, a student, or an expert looking for an opportunity to learn a new skill, don’t miss this opportunity!
+🛠️Build, innovate, and **#HackTogether**!🛠️ It's time to explore an opportunity to contribute to a real world JavaScript project with Microsoft! 🔥
 
-In this hackathon, participants will learn how to build apps based on top of JavaScript End to End scenarios, and met Microsoft JavaScript Leaders, Cloud Advocates, MVPs and Student Ambassadors. [Register Now!](https://forms.office.com/r/KJp0JQF6k5)
+## 🪄Tips & Tricks 
+
+* Whenever you struggle during the hack together, ask your questions on **[❓Our GitHub Discussion](https://github.com/microsoft/hack-together-teams/discussions/new?category=q-a)**. Microsoft experts will be there to help you.
+* Are your looking for a project idea? Check out **[📃 Top Hack Together ideas](https://github.com/microsoft/hack-together-teams/blob/main/TOP-SCENARIOS.md)** to pick a project idea to get started, or get insipired for your own project idea! Also, there are many good first issues available in the **[✨ Project repo to get inspired](https://github.com/Azure-Samples/contoso-real-estate/contribute)** section if you are looking for more inspiration while working on your hack to win a digital badge!
+* Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](https://github.com/microsoft/hack-together-teams/blob/main/README.md#recommended-learning-materials-)** below.
+* Looking for code templates to start with? Check out available **[🪡 Templates](https://github.com/microsoft/hack-together-teams/blob/main/README.md#templates-to-get-started-)** in the repository.
+* Submit your project until June 15 to win **[🏆 Judging and Prizes](https://github.com/microsoft/hack-together-teams/blob/main/README.md#judging-and-prizes-)**.
+
+HackTogether is your playground for coding and experimenting with Microsoft Teams. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build Teams apps based on the top Microsoft Teams app scenarios. The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
+
+The hackathon starts on **June 1st** and ends on **June 15th**. It is recommended for participants to follow the HackTogether Roadmap for a successful hackathon.
+
+From July 3-17, 2023 we ran **Hack Together: The JavaScript on Azure Global Hack** - a virtual hackathon for beginners to get started building scenario-based apps using JavaScript, Static Web Apps, Azure Functions & Cosmos DB and win eciting prizes. If you’re a beginning coder, a student, or an expert looking for an opportunity to learn a new skill, don’t miss this opportunity!
+
+In this hackathon, participants will learn how to build apps based on top of JavaScript End to End scenarios, and meet Microsoft JavaScript Leaders, Cloud Advocates, MVPs and Student Ambassadors. [Register Now!](https://forms.office.com/r/KJp0JQF6k5)
 
 ## Resources & Prerequisites
 
@@ -52,7 +66,7 @@ We’re so excited for you to Hack Together with us and build cool features. Sha
 
 ## 🗺️Hack Together Roadmap 
 
-![Hack Together Roadmap](./assets/HackTogetherRoadmap.jpg)
+![Hack Together Roadmap](./assets/HackTogetherRoadmap.png)
 
 Follow the steps below to successfully complete the hackathon.
 
